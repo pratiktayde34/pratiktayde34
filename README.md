@@ -24,13 +24,12 @@ I’m currently deep-diving into:
 
 ## 🛠 Core Stack
 
-- Linux
-- Docker
-- Git & GitHub Actions
-- Nginx
+- Linux (system administration)
+- Docker & Container Networking
+- CI/CD (GitHub Actions)
+- Nginx & Reverse Proxy
 - VPS Deployment (DigitalOcean / Cloudflare)
-- Networking & Firewall Configuration
-
+- Networking & Firewall Hardening
 ---
 
 ## 📂 Current Focus
