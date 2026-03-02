@@ -1,23 +1,50 @@
-<img align='right' src="https://github.com/pratiktayde34/pratiktayde34/blob/main/%7BPratik%20Tayde%7D.png" width="480">
+<img align='right' src="https://github.com/pratiktayde34/pratiktayde34/blob/main/%7BPratik%20Tayde%7D.png" width="420">
 
-<h1 align="center">Hi 👋, I'm Pratik Tayde !</h1>
-<h3 align="center">A student trying to figure things out....... oops !</h3>
+<h1 align="center">Hi 👋, I'm Pratik Tayde</h1>
 
-- 🌱 I’m currently learning **scikit-learn**
+<h3 align="center">Infrastructure & Deployment Engineering</h3>
 
-- 👨‍💻 All of my projects are available at [pratiktayde.me](pratiktayde.me)
+---
 
-- 💬 Ask me about **Python, HTML, CSS and JS**
+## 🚀 About Me
 
-- 📫 How to reach me **taydepratik30@gmail.com**
+I focus on building reliable, production-ready infrastructure using containers, secure server configurations, and automated deployment pipelines.
 
-- ⚡ Fun fact : **I guess I'm also good at hardware side of things !**
+My foundation in networking and hardware (including building high-performance gaming systems and servers) allows me to understand systems from physical infrastructure all the way to cloud deployments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I’m currently deep-diving into:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+- 🐳 Docker & container networking
+- 🔁 CI/CD automation (GitHub Actions)
+- 🔐 Secure VPS deployment & server hardening
+- 🌐 Networking fundamentals & system reliability
+- 📊 Monitoring and production debugging
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiktayde4246&show_icons=true&locale=en&layout=compact" alt="pratiktayde4246" /></p>
+---
+
+## 🛠 Core Stack
+
+- Linux
+- Docker
+- Git & GitHub Actions
+- Nginx
+- VPS Deployment (DigitalOcean / Cloudflare)
+- Networking & Firewall Configuration
+
+---
+
+## 📂 Current Focus
+
+Building and documenting:
+
+- Production-grade Docker deployments  
+- Automated deployment pipelines  
+- Secure, hardened server setups  
+- Infrastructure architecture case studies  
+
+---
+
+## 📫 Contact
+
+📧 taydepratik30@gmail.com  
+🌐 pratiktayde.me
