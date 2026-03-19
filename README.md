@@ -45,5 +45,5 @@ Building and documenting:
 
 ## 📫 Contact
 
-📧 taydepratik30@gmail.com  
-🌐 pratiktayde.me
+📧 pratik@pratiktayde.com
+🌐 pratiktayde.com
